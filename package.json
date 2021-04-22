@@ -1,0 +1,8 @@
+{
+  "name": "@anna130993/randomid-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:anna130993/id-generator.git",
+  "author": "Anna Podsiadlo <annamagdalena.podsiadlo@gmail.com>",
+  "license": "MIT"
+}
